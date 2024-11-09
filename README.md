@@ -13,5 +13,5 @@ Rectangle Path: Modified the existing package to create a rectangular path for t
 
 Deliverables :-
 
-Link to the GitHub Repository
+Link to the GitHub Repository- (https://github.com/Ashutosh06Behera/ROS_SESSION)
 Link to the Screen Recording- (https://drive.google.com/file/d/14dpfGBKruqUIPp71IEiU_jKzOuDi4-BN/view?usp=sharing)
